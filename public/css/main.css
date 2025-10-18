@@ -1,0 +1,100 @@
+.gear-image,
+  .sec-services img {
+    margin: 0 auto
+    }
+  .cust-title,
+    .fs-32 {
+      font-family: "Playfair Display",serif;
+      font-size: 32px
+      }
+    .approach-text,
+      .cust-title,
+        .sec-services {
+          text-align: center
+          }
+        .gear-image {
+          display: block
+          }
+        .cust-title {
+          color: #fdfdfd
+          }
+        .fs-32 {
+          color: #0cf
+          }
+        .fs-30 {
+          font-size: 25px
+          }
+        .fc-secondary {
+          color: #fdfdfd;
+          font-size: 20px;
+          display: inline-grid;
+          margin-top: auto;
+          padding-top: 12px;
+          top: auto
+          }
+        .border-grey {
+          color: #4e5c6b
+          }
+        .fc-primary {
+          color: #87a5a4
+          }
+        .fc-white {
+          color: #fefefe
+          }
+        .lecture {
+          padding-top: 35px
+          }
+        .schedule-consultation {
+          display: block;
+          margin-top: 25px
+          }
+        .fc-info {
+          color: #5f9aa1
+          }
+        .f-bold.fc-info {
+          font-weight: 800
+          }
+        .f-bold {
+          font-weight: 700
+          }
+        .footer-logo {
+            width: 250px;
+            }
+        @media (max-width:576px) {
+          .gear-image {
+            width: 380px
+            }
+          .services-images {
+            height: 150px
+            }
+          .eval-cards {
+            height: 300px !important;
+            }
+          .footer-logo {
+            z-index: 0;
+            width: 210px !important;
+            }
+          .navbar-burger {
+            margin: 10px auto;
+            width: 80%
+            }
+          .services-parent-mobile {
+            display: grid;
+            place-items: center;
+            }
+          .lightbulb-mobile {
+            padding: 10px 0 0 0 !important;
+            height: 150px !important;
+            }
+          .pr-8 {
+            padding-right: 2rem !important;
+            }
+          .profile-pic-mobile {
+            height: 250px !important;
+            padding-left: 85px !important;
+            }
+          .about-me {
+            padding: 0 1.25rem !important;
+            }
+          }
+
