@@ -96,7 +96,7 @@
           .about-me {
             padding: 0 1.25rem !important;
             }
-          .d-flex.contact-mobile {
+          .d-flex.flex-wrap.contact-mobile {
             display: block !important;
             text-align: center !important;
             }
