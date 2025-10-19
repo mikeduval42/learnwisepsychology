@@ -122,9 +122,11 @@
             .p-16.cta-contact {
               padding: 0 18.5% 43px !important;
             }
-            .navbar-brand.mobile-navbar-brand {
-              height: 58px !important;
+            .navbar-brand {
               margin-right: 0 !important;
+            }
+            .mobile-navbar-brand img {
+              height: 58px !important;
             }
           }
 
