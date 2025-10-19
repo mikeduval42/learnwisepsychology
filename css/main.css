@@ -131,8 +131,8 @@
             .hamburger-logo img {
               height: 170px !important;
             }
-            a.btn.btn-info.schedule-consultation-2 {
-              margin-top: 0px !important;
+            a.btn.btn-info.schedule-consultation.cta2 {
+              margin-top: -10px !important;
             }
           }
 
