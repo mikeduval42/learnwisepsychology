@@ -105,11 +105,15 @@
             }
           .contact-us-header-mobile {
             text-align: center !important;
+            margin-bottom: 50px !important;
             }
           .mobile-psuedo-border-bottom {
             background: linear-gradient(to right, rgb(78, 92, 107) 50%, rgb(78, 92, 107) 78%) bottom center / 70% 2px no-repeat !important;
             padding-bottom: 5px;
             padding-top: 5px;
+            }
+            .text-primary.contact-p {
+              padding: 0 7px !important
             }
           }
 
