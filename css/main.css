@@ -46,7 +46,10 @@
           }
         .schedule-consultation {
           display: block;
-          margin-top: 25px
+          margin-top: 25px;
+          }
+        .schedule-consultation2 {
+          display: block;
           }
         .fc-info {
           color: #5f9aa1
@@ -131,7 +134,7 @@
             .hamburger-logo img {
               height: 170px !important;
             }
-            a.btn.btn-info.schedule-consultation.cta2 {
+            a.btn.btn-info.schedule-consultation2 {
               margin-top: -70px !important;
             }
           }
