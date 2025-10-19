@@ -124,6 +124,7 @@
             }
             .navbar-brand.mobile-navbar-brand {
               height: 58px !important;
+              margin-right: 0 !important;
             }
           }
 
