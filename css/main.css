@@ -60,7 +60,7 @@
         .footer-logo {
             width: 250px;
             }
-        .contact-mobile {
+        .flex-wrap.contact-mobile {
           display:flex;
         }
         @media (max-width:576px) {
