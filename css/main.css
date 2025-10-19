@@ -117,7 +117,10 @@
             padding-top: 10px;
             }
             .text-primary.contact-p {
-              padding: 0 7px !important
+              padding: 0 7px !important;
+            }
+            .cta-contact {
+              padding: 0 16% 43px !important;
             }
           }
 
