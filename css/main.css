@@ -106,5 +106,10 @@
           .contact-us-header-mobile {
             text-align: center !important;
             }
+          .mobile-psuedo-border-bottom {
+            background: linear-gradient(to right, #000 50%, #000 78%) bottom center / 70% 2px no-repeat;
+            padding-bottom: 5px;
+            padding-top: 5px;
+          }
           }
 
