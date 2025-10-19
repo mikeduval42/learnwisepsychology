@@ -128,5 +128,8 @@
             .mobile-navbar-brand img {
               height: 58px !important;
             }
+            .hamburger-logo img {
+              height: 170px !important;
+            }
           }
 
