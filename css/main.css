@@ -107,9 +107,9 @@
             text-align: center !important;
             }
           .mobile-psuedo-border-bottom {
-            background: linear-gradient(to right, #000 50%, #000 78%) bottom center / 70% 2px no-repeat;
+            background: linear-gradient(to right, rgb(78, 92, 107) 50%, rgb(78, 92, 107) 78%) bottom center / 70% 2px no-repeat;
             padding-bottom: 5px;
             padding-top: 5px;
-          }
+            }
           }
 
