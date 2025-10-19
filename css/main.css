@@ -60,6 +60,9 @@
         .footer-logo {
             width: 250px;
             }
+        .contact-mobile {
+          display:flex;
+        }
         @media (max-width:576px) {
           .gear-image {
             width: 380px
@@ -96,7 +99,7 @@
           .about-me {
             padding: 0 1.25rem !important;
             }
-          .d-flex.flex-wrap.contact-mobile {
+          .contact-mobile {
             display: block !important;
             text-align: center !important;
             }
