@@ -100,14 +100,14 @@
             padding: 0 1.25rem !important;
             }
           .contact-mobile {
-            display: block !important;
+            display: flow-root !important;
             text-align: center !important;
             }
           .contact-us-header-mobile {
             text-align: center !important;
             }
           .mobile-psuedo-border-bottom {
-            background: linear-gradient(to right, rgb(78, 92, 107) 50%, rgb(78, 92, 107) 78%) bottom center / 70% 2px no-repeat;
+            background: linear-gradient(to right, rgb(78, 92, 107) 50%, rgb(78, 92, 107) 78%) bottom center / 70% 2px no-repeat !important;
             padding-bottom: 5px;
             padding-top: 5px;
             }
